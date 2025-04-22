@@ -1,0 +1,7 @@
+README.md
+setup.py
+MLOps_with_ETL_pipeline_Networksecurity.egg-info/PKG-INFO
+MLOps_with_ETL_pipeline_Networksecurity.egg-info/SOURCES.txt
+MLOps_with_ETL_pipeline_Networksecurity.egg-info/dependency_links.txt
+MLOps_with_ETL_pipeline_Networksecurity.egg-info/requires.txt
+MLOps_with_ETL_pipeline_Networksecurity.egg-info/top_level.txt
