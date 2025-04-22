@@ -1,3 +1,5 @@
 venv/
 notebooks/
 .env
+logs/
+__pycache__/
