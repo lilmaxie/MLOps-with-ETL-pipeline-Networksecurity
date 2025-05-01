@@ -3,3 +3,4 @@ notebooks/
 .env
 logs/
 __pycache__/
+final_model/
