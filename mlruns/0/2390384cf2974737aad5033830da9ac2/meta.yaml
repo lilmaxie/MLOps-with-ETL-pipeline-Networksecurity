@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MinhHoang/NetworkSecurity/mlruns/0/2390384cf2974737aad5033830da9ac2/artifacts
+end_time: 1746073822811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2390384cf2974737aad5033830da9ac2
+run_name: lyrical-stork-484
+run_uuid: 2390384cf2974737aad5033830da9ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746073817161
+status: 3
+tags: []
+user_id: hoang

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MinhHoang/NetworkSecurity/mlruns/0/52fe315367584e5b9169981e74405cce/artifacts
+end_time: 1746073826694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52fe315367584e5b9169981e74405cce
+run_name: wistful-chimp-464
+run_uuid: 52fe315367584e5b9169981e74405cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746073822901
+status: 3
+tags: []
+user_id: hoang
