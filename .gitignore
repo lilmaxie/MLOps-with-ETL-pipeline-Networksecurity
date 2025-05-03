@@ -4,3 +4,4 @@ notebooks/
 logs/
 __pycache__/
 final_model/
+mlruns/
